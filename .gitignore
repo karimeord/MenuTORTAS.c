@@ -3,8 +3,7 @@
 void menu();
 int ordenar();
 void cambio(int tot);
-main()
-{
+main(){
 int ord;
 ord=ordenar();
 cambio(ord);
